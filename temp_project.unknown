@@ -1,0 +1,13 @@
+
+def main():
+    a = input()
+    b = input()
+    c = a*b
+    print(c)
+
+
+
+
+
+if __name__=="__main__":
+    main()
